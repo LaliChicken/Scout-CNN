@@ -1,6 +1,6 @@
 # Scout AI: Cats vs Dogs
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LaliChicken/Scout-CNN/blob/main/ScoutAI.ipynb)
+[![Open in Colab]([https://colab.research.google.com/drive/1xIDf3gvsq99O753ijzBHiHI30gQ6-XQG#scrollTo=06_app])
 
 A CNN feature-learning demo for scouts ages 11–17. Earlier, people chose features such as ears and whiskers. Here, the network learns filters from pixels and labels.
 
