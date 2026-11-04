@@ -1,0 +1,26 @@
+[NbConvertApp] Converting notebook ScoutAI.ipynb to notebook
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[NbConvertApp] Writing 63361 bytes to artifacts/smoke-executed.ipynb
+/home/agent/.local/lib/python3.12/site-packages/tqdm/auto.py:21: TqdmWarning: IProgress not found. Please update jupyter and ipywidgets. See https://ipywidgets.readthedocs.io/en/stable/user_install.html
+  from .autonotebook import tqdm as notebook_tqdm
+Setup ready · synthetic CPU smoke test
+Skipped invalid: 0 · Removed exact: 0 · near: 0
+Demo photos left in training: 0 · prep: 0.0s
+Parameters: 1,173,730
+Block 1: (2, 32, 64, 64)
+Block 2: (2, 64, 32, 32)
+Block 3: (2, 128, 16, 16)
+Block 4: (2, 256, 8, 8)
+App ready
+SMOKE_TEST: launch skipped
+{
+  "gpu": "CPU synthetic smoke",
+  "synthetic": true,
+  "stopped": false,
+  "last_epoch": 1,
+  "images_seen": 72,
+  "prep_s": 0.012301795000098537,
+  "training_s": 0.31026889600002505,
+  "val_accuracy": 0.5
+}
+SMOKE TEST PASSED · 3 optimizer steps · Grad-CAM · checkpoint round-trip

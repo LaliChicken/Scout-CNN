@@ -1,0 +1,9 @@
+gradio==5.49.1
+nbformat>=5.10
+nbconvert>=7.16
+ipykernel>=6.29
+matplotlib>=3.9
+scikit-learn>=1.5
+tqdm>=4.66
+pytest>=8
+playwright>=1.50
