@@ -1,0 +1,463 @@
+{
+  "total": 50,
+  "counts": {
+    "cats/easy": 17,
+    "cats/tricky": 8,
+    "dogs/easy": 17,
+    "dogs/tricky": 8
+  },
+  "unique_sha1": 50,
+  "source": "User-supplied cats.zip and dogs.zip; original JPEG bytes preserved",
+  "photos": [
+    {
+      "path": "demo/cats/easy/cat-01.jpg",
+      "bytes": 24159,
+      "size": [
+        500,
+        500
+      ],
+      "sha1": "64ed950ecd09917e62b0dd2f83736ce52f22a184"
+    },
+    {
+      "path": "demo/cats/easy/cat-02.jpg",
+      "bytes": 33781,
+      "size": [
+        500,
+        375
+      ],
+      "sha1": "1cbd099ca15d1ec3af2d91aab97e2c58f9338194"
+    },
+    {
+      "path": "demo/cats/easy/cat-03.jpg",
+      "bytes": 46794,
+      "size": [
+        440,
+        391
+      ],
+      "sha1": "3d0d10421f215aa74ba2e5b17926436d31fda8ea"
+    },
+    {
+      "path": "demo/cats/easy/cat-04.jpg",
+      "bytes": 27662,
+      "size": [
+        500,
+        499
+      ],
+      "sha1": "c76dfa43d74cee978f4a7b5a1e34e7a2368b3bb5"
+    },
+    {
+      "path": "demo/cats/easy/cat-05.jpg",
+      "bytes": 109053,
+      "size": [
+        450,
+        384
+      ],
+      "sha1": "1e3a2d241107174329b20662fae22f00b4d59b3f"
+    },
+    {
+      "path": "demo/cats/easy/cat-06.jpg",
+      "bytes": 67886,
+      "size": [
+        373,
+        355
+      ],
+      "sha1": "192bb096e4b4fb5f60865b3201ad6f5b5946b6aa"
+    },
+    {
+      "path": "demo/cats/easy/cat-07.jpg",
+      "bytes": 26747,
+      "size": [
+        400,
+        366
+      ],
+      "sha1": "189c9f98d24312ab2f2f5e45dfee84fbf2219f5d"
+    },
+    {
+      "path": "demo/cats/easy/cat-08.jpg",
+      "bytes": 24270,
+      "size": [
+        500,
+        472
+      ],
+      "sha1": "4bdbe27188ac4be76a8428aaeb7e10bd8c72f322"
+    },
+    {
+      "path": "demo/cats/easy/cat-09.jpg",
+      "bytes": 32824,
+      "size": [
+        500,
+        482
+      ],
+      "sha1": "01c2d66b5dc53c3ca547dc24e1c0f79998ba3d2d"
+    },
+    {
+      "path": "demo/cats/easy/cat-10.jpg",
+      "bytes": 31140,
+      "size": [
+        485,
+        500
+      ],
+      "sha1": "1a4dc7ce42da400d34d8e29e1e0cc29a24e1db88"
+    },
+    {
+      "path": "demo/cats/easy/cat-11.jpg",
+      "bytes": 30706,
+      "size": [
+        417,
+        500
+      ],
+      "sha1": "1fcc2945417763627629b575e687b8c3cd2213eb"
+    },
+    {
+      "path": "demo/cats/easy/cat-12.jpg",
+      "bytes": 46739,
+      "size": [
+        381,
+        346
+      ],
+      "sha1": "c34c6a6327fc79ce18df661dee69d4e196e7c05f"
+    },
+    {
+      "path": "demo/cats/easy/cat-13.jpg",
+      "bytes": 34412,
+      "size": [
+        400,
+        366
+      ],
+      "sha1": "a4bea8cd9680e57857b47ebab9a474431bedb6ad"
+    },
+    {
+      "path": "demo/cats/easy/cat-14.jpg",
+      "bytes": 31247,
+      "size": [
+        500,
+        375
+      ],
+      "sha1": "97e4997786551c0c4865fce83035e7c8debeed2f"
+    },
+    {
+      "path": "demo/cats/easy/cat-15.jpg",
+      "bytes": 35738,
+      "size": [
+        500,
+        374
+      ],
+      "sha1": "c06f55ac53e458146045a04d18ffd68120bfba7c"
+    },
+    {
+      "path": "demo/cats/easy/cat-16.jpg",
+      "bytes": 26922,
+      "size": [
+        500,
+        347
+      ],
+      "sha1": "ea8555084ded6f83dd4c8be54ecfdeb0b9c8ec04"
+    },
+    {
+      "path": "demo/cats/easy/cat-17.jpg",
+      "bytes": 20417,
+      "size": [
+        500,
+        374
+      ],
+      "sha1": "0a41d0cf96cef7691051e75780325643f42d9680"
+    },
+    {
+      "path": "demo/cats/tricky/cat-18-yawning-kitten.jpg",
+      "bytes": 32556,
+      "size": [
+        500,
+        375
+      ],
+      "sha1": "2519fe3e32982743c9f1004b76e206ba33fa2311"
+    },
+    {
+      "path": "demo/cats/tricky/cat-19-hissing-kitten-ears-back.jpg",
+      "bytes": 30993,
+      "size": [
+        417,
+        500
+      ],
+      "sha1": "076cc275d154a96fd030427310b7f84742fc7142"
+    },
+    {
+      "path": "demo/cats/tricky/cat-20-himalayan-tongue-out.jpg",
+      "bytes": 20480,
+      "size": [
+        500,
+        408
+      ],
+      "sha1": "39c17c48420d57741b55fdce8beee55a17d6da81"
+    },
+    {
+      "path": "demo/cats/tricky/cat-21-persian-flat-face.jpg",
+      "bytes": 26954,
+      "size": [
+        500,
+        375
+      ],
+      "sha1": "b17c6318e5f1dcf1b3fbdc8e1eef9dd501b4d529"
+    },
+    {
+      "path": "demo/cats/tricky/cat-22-persian-kitten.jpg",
+      "bytes": 36870,
+      "size": [
+        500,
+        375
+      ],
+      "sha1": "ef06200a880bd5aa9ba0b869cfcbeb1015377dcb"
+    },
+    {
+      "path": "demo/cats/tricky/cat-23-eyes-closed.jpg",
+      "bytes": 33514,
+      "size": [
+        500,
+        420
+      ],
+      "sha1": "63468f166cfdac9950dbd80e9c2046ce387f3bfe"
+    },
+    {
+      "path": "demo/cats/tricky/cat-24-siamese-dark-face.jpg",
+      "bytes": 29480,
+      "size": [
+        488,
+        500
+      ],
+      "sha1": "b1adecbbf6ccc0c81163f3a5da5445296e1f4ab5"
+    },
+    {
+      "path": "demo/cats/tricky/cat-25-fluffy-kitten-round-pupils.jpg",
+      "bytes": 37723,
+      "size": [
+        426,
+        398
+      ],
+      "sha1": "a46238be6e3abaeed506ddc8ab5a9dee16dea1a0"
+    },
+    {
+      "path": "demo/dogs/easy/dog-01.jpg",
+      "bytes": 26126,
+      "size": [
+        470,
+        500
+      ],
+      "sha1": "55dae8415aa8acf2a9c262aeba57b2687cd65234"
+    },
+    {
+      "path": "demo/dogs/easy/dog-02.jpg",
+      "bytes": 21294,
+      "size": [
+        500,
+        333
+      ],
+      "sha1": "0c4fcc6481ec9207205b6f5ac40d489131330b8e"
+    },
+    {
+      "path": "demo/dogs/easy/dog-03.jpg",
+      "bytes": 20788,
+      "size": [
+        500,
+        467
+      ],
+      "sha1": "0df656e323505a67fab82a788cbe0f1b8bb8976b"
+    },
+    {
+      "path": "demo/dogs/easy/dog-04.jpg",
+      "bytes": 33156,
+      "size": [
+        500,
+        435
+      ],
+      "sha1": "be287da4d2912624618eddbb62845e8144444100"
+    },
+    {
+      "path": "demo/dogs/easy/dog-05.jpg",
+      "bytes": 30695,
+      "size": [
+        478,
+        500
+      ],
+      "sha1": "3b2ce1dc1a03dc47c9490c85c1bea48a6348a585"
+    },
+    {
+      "path": "demo/dogs/easy/dog-06.jpg",
+      "bytes": 32636,
+      "size": [
+        400,
+        462
+      ],
+      "sha1": "eca57bdf93a690b5c1e0f343e527221acfe45d0b"
+    },
+    {
+      "path": "demo/dogs/easy/dog-07.jpg",
+      "bytes": 33863,
+      "size": [
+        386,
+        500
+      ],
+      "sha1": "9c63854b6e681c3af1fef986e6986cfe34003553"
+    },
+    {
+      "path": "demo/dogs/easy/dog-08.jpg",
+      "bytes": 30284,
+      "size": [
+        500,
+        444
+      ],
+      "sha1": "8a1f4207eab73e1397c2dda52750c18a62ca2388"
+    },
+    {
+      "path": "demo/dogs/easy/dog-09.jpg",
+      "bytes": 42230,
+      "size": [
+        423,
+        500
+      ],
+      "sha1": "b1790969e1daa16fd63a210179b07684d2b59086"
+    },
+    {
+      "path": "demo/dogs/easy/dog-10.jpg",
+      "bytes": 47283,
+      "size": [
+        360,
+        435
+      ],
+      "sha1": "d442fbd19196f51cc9033ffeabe1ecf77301f9f8"
+    },
+    {
+      "path": "demo/dogs/easy/dog-11.jpg",
+      "bytes": 45781,
+      "size": [
+        385,
+        480
+      ],
+      "sha1": "29d562d97959543be5c20ca21c6bb29b33c7121d"
+    },
+    {
+      "path": "demo/dogs/easy/dog-12.jpg",
+      "bytes": 24904,
+      "size": [
+        356,
+        500
+      ],
+      "sha1": "0fb9f89b3c63d1920e3349d6a17b2977013a4c87"
+    },
+    {
+      "path": "demo/dogs/easy/dog-13.jpg",
+      "bytes": 29089,
+      "size": [
+        379,
+        500
+      ],
+      "sha1": "ed9ba896565ce29106e143d62e86a582db4bb1f8"
+    },
+    {
+      "path": "demo/dogs/easy/dog-14.jpg",
+      "bytes": 16044,
+      "size": [
+        361,
+        338
+      ],
+      "sha1": "b036e23664b753b446fdc583f9597f275607c8d1"
+    },
+    {
+      "path": "demo/dogs/easy/dog-15.jpg",
+      "bytes": 27830,
+      "size": [
+        500,
+        400
+      ],
+      "sha1": "b16c932c39f802a82ed6fb1faf968fae29a241cc"
+    },
+    {
+      "path": "demo/dogs/easy/dog-16.jpg",
+      "bytes": 22361,
+      "size": [
+        344,
+        336
+      ],
+      "sha1": "6eee9a3781a004d937fca3d04c9306004a1c7737"
+    },
+    {
+      "path": "demo/dogs/easy/dog-17.jpg",
+      "bytes": 38742,
+      "size": [
+        375,
+        500
+      ],
+      "sha1": "0bf22cc15b94ba69c23877e976c57d5c0e35142c"
+    },
+    {
+      "path": "demo/dogs/tricky/dog-18-husky-mouth-closed.jpg",
+      "bytes": 23657,
+      "size": [
+        436,
+        500
+      ],
+      "sha1": "9dc38f70601d5f2d29b8a6c052217d6339951ec6"
+    },
+    {
+      "path": "demo/dogs/tricky/dog-19-pug-mouth-closed.jpg",
+      "bytes": 57917,
+      "size": [
+        474,
+        397
+      ],
+      "sha1": "97187f392a9d7ee5e3c0370701fd0284c018c285"
+    },
+    {
+      "path": "demo/dogs/tricky/dog-20-pug-tongue-out.jpg",
+      "bytes": 49534,
+      "size": [
+        440,
+        500
+      ],
+      "sha1": "85f272ade90c5b5b6703939867d069131b24872d"
+    },
+    {
+      "path": "demo/dogs/tricky/dog-21-boston-terrier-pointy-ears.jpg",
+      "bytes": 40889,
+      "size": [
+        357,
+        474
+      ],
+      "sha1": "16c33e6aa06b33dbf500729a5304a68652d4dd03"
+    },
+    {
+      "path": "demo/dogs/tricky/dog-22-chihuahua-pointy-ears.jpg",
+      "bytes": 41605,
+      "size": [
+        500,
+        500
+      ],
+      "sha1": "ab4918c6ff14c57248a5e6fd1f68b535dde7f647"
+    },
+    {
+      "path": "demo/dogs/tricky/dog-23-fluffy-flat-face.jpg",
+      "bytes": 325600,
+      "size": [
+        420,
+        427
+      ],
+      "sha1": "211161f6e6c0566ae4897ae7eed333c6e9ddbc23"
+    },
+    {
+      "path": "demo/dogs/tricky/dog-24-akita-mouth-closed.jpg",
+      "bytes": 73441,
+      "size": [
+        448,
+        336
+      ],
+      "sha1": "70f81ee3352b999f32a5d82e39b92421ea90fcb7"
+    },
+    {
+      "path": "demo/dogs/tricky/dog-25-german-shepherd-pointy-ears.jpg",
+      "bytes": 55131,
+      "size": [
+        477,
+        400
+      ],
+      "sha1": "9a1cea2f183c01582bf5151fa6e1d0d61c0f0a08"
+    }
+  ]
+}

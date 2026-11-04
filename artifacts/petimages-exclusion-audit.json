@@ -1,0 +1,23 @@
+{
+  "synthetic": false,
+  "invalid": 4,
+  "exact": 50,
+  "near": 31,
+  "capped": 0,
+  "demo_remaining": 0,
+  "prep_s": 50.71662822999997,
+  "train": 22425,
+  "val": 2492,
+  "environment": "Cloud development CPU audit, not Colab",
+  "download_included": false,
+  "gpu_transfer_included": false,
+  "source_archive_bytes": 824887076,
+  "prepared_shape": [
+    24917,
+    3,
+    144,
+    144
+  ],
+  "photos": 50,
+  "workers": 3
+}

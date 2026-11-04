@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+.smoke/
+.ipynb_checkpoints/
+artifacts/smoke-executed.ipynb
+*.pt
+*.zip
